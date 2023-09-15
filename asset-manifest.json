@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieAnime_React/static/css/main.8b6402ea.css",
+    "main.js": "/MovieAnime_React/static/js/main.831ab0a8.js",
+    "index.html": "/MovieAnime_React/index.html",
+    "main.8b6402ea.css.map": "/MovieAnime_React/static/css/main.8b6402ea.css.map",
+    "main.831ab0a8.js.map": "/MovieAnime_React/static/js/main.831ab0a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b6402ea.css",
+    "static/js/main.831ab0a8.js"
+  ]
+}
